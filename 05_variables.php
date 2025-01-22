@@ -17,3 +17,13 @@
     $income = 100.5;
     echo "Heyy, he is $name and his full name is $NAME and his income is $income <br><br>";
 ?>
+
+<h4>Rules for creating variables in php</h4>
+<ul>
+    <li>Starts with a $ sign</li>
+    <li>Cannot start with a number</li>
+    <li>Must Start with a letter or an underscore character</li>
+    <li>Must Start with a letter or an underscore character</li>
+    <li>Can only contain alphanumeric characters and underscore</li>
+    <li>Variables in php are Case sensitive. ($php, $pHp, $Php, $PHP are different)</li>
+</ul>
